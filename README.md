@@ -67,7 +67,7 @@ Dialog box confirms successful booking.
 ### 📋 View Booked Rooms
 List of all customers and the rooms they have booked.
 
-![Booked Rooms](screenshots/booked.png)
+![Booked Rooms](screenshots/booked-new.png)
 
 ---
 
